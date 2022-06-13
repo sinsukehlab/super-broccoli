@@ -6,5 +6,5 @@ title: Home
 Welcome to ***Super Broccoli*** :broccoli:
 
 # Site Map
-- [About]({% link about.md | absolute_url %})
-- [Contact]({% link contact.md | absolute_url %})
+- [About]({{ site.baseurl }}{% link about.md %})
+- [Contact]({{ site.baseurl }}{% link contact.md %})
