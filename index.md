@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Home
+permalink: /super-broccoli/
 ---
 # Hello!
 Welcome to ***Super Broccoli*** :broccoli:
 
 # Site Map
-- [About]({% link /super-broccoli/about.md %})
-- [Contact]({% link /super-broccoli/contact.md %})
+- [About]({% link about.md %})
+- [Contact]({% link contact.md %})
