@@ -3,3 +3,5 @@ markdown: GFM
 title: "Super Broccoli"
 author: sinsukehlab
 description: GitHub Pages site with Jekyll
+plugins:
+  - jemoji
