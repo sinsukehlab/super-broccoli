@@ -8,10 +8,10 @@ layout: default
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">
                 {{ page.date | date_to_string }}
             </time>
-            {%- if page.modified_date -%}
+            {%- if page.last_modified_at -%}
                 &ndash;
-                <time class="dt-modified" datetime="{{ page.modified_date | date_to_xmlschema }}">
-                    {{page.modified_date | date_to_string }}
+                <time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+                    {{ page.last_modified_at | date_to_string }}
                 </time>
             {%- endif -%}
             {%- if page.author -%}
@@ -24,7 +24,7 @@ layout: default
             {%- endif -%}
         </p>
     </header>
-    
+
     <div class="post-content">
         {{ content }}
     </div>

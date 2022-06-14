@@ -3,6 +3,7 @@ layout: post
 title: "My first post"
 author: sinsukehlab
 categories: first-post
+date: 2022-06-14 10:00:00 +0900
 ---
 # I have made a Jekyll site
 This is my first post.

@@ -5,3 +5,4 @@ author: sinsukehlab
 description: GitHub Pages site with Jekyll
 plugins:
   - jemoji
+  - jekyll-last-modified-at
