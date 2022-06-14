@@ -12,4 +12,4 @@ whose large flowering head, stalk and small associated leaves
 are eaten as a vegitable.
 
 `super-broccoli` is a repository name given by GitHub.
-~~Sounds like it's more powerful stuff to get high with, huh?~~
+~~Sounds like it's more powerful stuff that makes you feel great, huh?~~
