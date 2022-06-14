@@ -8,3 +8,4 @@ Welcome to ***Super Broccoli*** :broccoli:
 # Site Map
 - [About]({{ site.baseurl }}{% link about.md %})
 - [Contact]({{ site.baseurl }}{% link contact.md %})
+- [Blogs]({{ site.baseurl }}{% link blog.md %})
