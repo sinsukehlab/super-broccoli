@@ -3,6 +3,8 @@ markdown: GFM
 title: "Super Broccoli"
 author:
   name: sinsukehlab
-description: "GitHub Pages site with Jekyll\nreleased under the MIT license"
+description: |
+  GitHub Pages site with Jekyll
+  released under the MIT license
 plugins:
   - jemoji
