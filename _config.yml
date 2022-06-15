@@ -1,7 +1,8 @@
 theme: minima
 markdown: GFM
 title: "Super Broccoli"
-author: sinsukehlab
-description: GitHub Pages site with Jekyll released under the MIT license
+author:
+  name: sinsukehlab
+description: "GitHub Pages site with Jekyll\nreleased under the MIT license"
 plugins:
   - jemoji
