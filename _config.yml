@@ -3,7 +3,7 @@ markdown: GFM
 title: "Super Broccoli"
 author:
   name: sinsukehlab
-description: |
+description: |-
   GitHub Pages site with Jekyll
   released under the MIT license
 
