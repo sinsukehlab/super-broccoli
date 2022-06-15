@@ -3,9 +3,9 @@ markdown: GFM
 title: "Super Broccoli"
 author:
   name: sinsukehlab
-description: |-
-  GitHub Pages site with Jekyll
-  released under the MIT license
+description:
+  l1: GitHub Pages site with Jekyll
+  l2: released under the MIT license
 
 plugins:
   - jemoji

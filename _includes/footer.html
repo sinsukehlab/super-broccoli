@@ -20,7 +20,8 @@
                 {%- endif %}
             </div>
             <div class="footer-col">
-                <p>{{ site.description | markdownify }}</p>
+                <p>{{ site.description.l1 | escape }}</p>
+                <p>{{ site.description.l2 | escape }}</p>
             </div>
         </div>
     </div>
