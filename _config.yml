@@ -5,6 +5,8 @@ author:
   name: sinsukehlab
 description: |
   GitHub Pages site with Jekyll
+
   released under the MIT license
+
 plugins:
   - jemoji
